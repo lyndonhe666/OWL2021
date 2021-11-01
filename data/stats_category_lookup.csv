@@ -1,0 +1,1578 @@
+,hero_name,stat_name,stat_category
+25,Echo,All Damage Done,general
+26,Echo,Average Time Alive,general
+27,Echo,Critical Hit Accuracy,some_shared
+28,Echo,Critical Hits,some_shared
+29,Echo,Damage - Sticky Bombs,hero_specific
+30,Echo,Damage - Weapon,some_shared
+31,Echo,Damage Taken,general
+32,Echo,Deaths,general
+33,Echo,Healing Received,general
+34,Echo,Hero Damage Done,general
+35,Echo,Quick Melee Ticks,some_shared
+36,Echo,Shots Fired,some_shared
+38,Echo,Shots Hit,some_shared
+39,Echo,Shots Missed,some_shared
+40,Echo,Sticky Bombs Direct Hit Accuracy,hero_specific
+41,Echo,Sticky Bombs Direct Hits,hero_specific
+42,Echo,Sticky Bombs Useds,hero_specific
+43,Echo,Time Alive,general
+44,Echo,Time Building Ultimate,general
+45,Echo,Time Elapsed per Ultimate Earned,general
+46,Echo,Time Played,general
+47,Echo,Ultimates Earned - Fractional,general
+48,Echo,Weapon Accuracy,some_shared
+49,Mei,All Damage Done,general
+50,Mei,Assists,general
+51,Mei,Average Time Alive,general
+52,Mei,Barrier Damage Done,general
+53,Mei,Blizzard Efficiency,hero_specific
+54,Mei,Blizzard Kills,hero_specific
+55,Mei,Critical Hit Accuracy,some_shared
+56,Mei,Critical Hits,some_shared
+57,Mei,Damage - Blizzard,hero_specific
+58,Mei,Damage - Weapon Primary,some_shared
+59,Mei,Damage - Weapon Secondary,some_shared
+60,Mei,Damage Blocked,some_shared
+61,Mei,Damage Taken,general
+62,Mei,Deaths,general
+63,Mei,Eliminations,general
+64,Mei,Enemies Frozen,hero_specific
+65,Mei,Freeze Spray Damage,hero_specific
+66,Mei,Healing Received,general
+67,Mei,Hero Damage Done,general
+68,Mei,Icicle Damage,hero_specific
+69,Mei,Objective Time,general
+70,Mei,Offensive Assists,some_shared
+71,Mei,Quick Melee Ticks,some_shared
+72,Mei,Self Healing,some_shared
+74,Mei,Self Healing Percent of Damage Taken,some_shared
+75,Mei,Shots Fired,some_shared
+76,Mei,Shots Hit,some_shared
+77,Mei,Shots Missed,some_shared
+78,Mei,Successful Freezes,hero_specific
+79,Mei,Time Alive,general
+80,Mei,Time Building Ultimate,general
+81,Mei,Time Elapsed per Ultimate Earned,general
+82,Mei,Time Hacked,some_shared
+83,Mei,Time Holding Ultimate,general
+84,Mei,Time Played,general
+85,Mei,Total Time Frozen,hero_specific
+86,Mei,Ultimates Earned - Fractional,general
+87,Mei,Ultimates Used,general
+88,Mei,Weapon Accuracy,some_shared
+89,Reaper,All Damage Done,general
+90,Reaper,Average Time Alive,general
+91,Reaper,Barrier Damage Done,general
+92,Reaper,Damage - Weapon,some_shared
+93,Reaper,Damage Taken,general
+94,Reaper,Deaths,general
+95,Reaper,Healing Received,general
+96,Reaper,Hero Damage Done,general
+97,Reaper,Self Healing,some_shared
+98,Reaper,Self Healing Percent of Damage Taken,some_shared
+99,Reaper,Shots Fired,some_shared
+100,Reaper,Shots Hit,some_shared
+101,Reaper,Shots Missed,some_shared
+102,Reaper,Time Alive,general
+103,Reaper,Time Building Ultimate,general
+104,Reaper,Time Elapsed per Ultimate Earned,general
+105,Reaper,Time Played,general
+106,Reaper,Ultimates Earned - Fractional,general
+107,Reaper,Weapon Accuracy,some_shared
+108,Sombra,All Damage Done,general
+109,Sombra,Assists,general
+110,Sombra,Average Time Alive,general
+111,Sombra,Barrier Damage Done,general
+112,Sombra,Critical Hit Accuracy,some_shared
+113,Sombra,Critical Hits,some_shared
+114,Sombra,Damage - EMP,hero_specific
+115,Sombra,Damage - Quick Melee,some_shared
+116,Sombra,Damage - Weapon,some_shared
+117,Sombra,Damage Taken,general
+118,Sombra,Deaths,general
+119,Sombra,EMP Efficiency,hero_specific
+120,Sombra,Eliminations,general
+121,Sombra,Enemies EMP'd,hero_specific
+122,Sombra,Enemies Hacked,hero_specific
+123,Sombra,Final Blows,general
+124,Sombra,Healing Received,general
+125,Sombra,Hero Damage Done,general
+126,Sombra,Objective Kills,general
+127,Sombra,Objective Time,general
+128,Sombra,Offensive Assists,some_shared
+129,Sombra,Quick Melee Accuracy,some_shared
+130,Sombra,Quick Melee Hits,some_shared
+131,Sombra,Quick Melee Ticks,some_shared
+132,Sombra,Shots Fired,some_shared
+133,Sombra,Shots Hit,some_shared
+134,Sombra,Shots Missed,some_shared
+135,Sombra,Time Alive,general
+136,Sombra,Time Building Ultimate,general
+137,Sombra,Time Discorded,some_shared
+138,Sombra,Time Elapsed per Ultimate Earned,general
+139,Sombra,Time Hacked,some_shared
+140,Sombra,Time Holding Ultimate,general
+141,Sombra,Time Played,general
+142,Sombra,Ultimates Earned - Fractional,general
+143,Sombra,Ultimates Used,general
+144,Sombra,Weapon Accuracy,some_shared
+145,Symmetra,Average Players per Teleporter,hero_specific
+146,Symmetra,Average Time Alive,general
+147,Symmetra,Players Teleported,hero_specific
+148,Symmetra,Teleporter Uptime,hero_specific
+149,Symmetra,Teleporters Placed,hero_specific
+150,Symmetra,Time Alive,general
+151,Symmetra,Time Building Ultimate,general
+152,Symmetra,Time Elapsed per Ultimate Earned,general
+153,Symmetra,Time Played,general
+154,Symmetra,Ultimates Earned - Fractional,general
+180,Reinhardt,All Damage Done,general
+181,Reinhardt,Average Time Alive,general
+182,Reinhardt,Barrier Damage Done,general
+183,Reinhardt,Damage - Charge,hero_specific
+184,Reinhardt,Damage - Earthshatter,hero_specific
+185,Reinhardt,Damage - Fire Strike,hero_specific
+186,Reinhardt,Damage - Weapon,some_shared
+187,Reinhardt,Damage Blocked,some_shared
+188,Reinhardt,Damage Taken,general
+189,Reinhardt,Deaths,general
+190,Reinhardt,Earthshatter Stuns,hero_specific
+191,Reinhardt,Eliminations,general
+192,Reinhardt,Final Blows,general
+193,Reinhardt,Healing Received,general
+194,Reinhardt,Hero Damage Done,general
+195,Reinhardt,Objective Time,general
+196,Reinhardt,Rocket Hammer Melee Accuracy,hero_specific
+197,Reinhardt,Rocket Hammer Melee Average Targets,hero_specific
+198,Reinhardt,Rocket Hammer Melee Hits,hero_specific
+199,Reinhardt,Rocket Hammer Melee Hits - Multiple,hero_specific
+200,Reinhardt,Rocket Hammer Melee Ticks,hero_specific
+201,Reinhardt,Time Alive,general
+202,Reinhardt,Time Building Ultimate,general
+203,Reinhardt,Time Elapsed per Ultimate Earned,general
+204,Reinhardt,Time Hacked,some_shared
+205,Reinhardt,Time Holding Ultimate,general
+206,Reinhardt,Time Played,general
+207,Reinhardt,Ultimates Earned - Fractional,general
+208,Reinhardt,Ultimates Used,general
+209,Winston,All Damage Done,general
+210,Winston,Assists,general
+211,Winston,Average Time Alive,general
+212,Winston,Barrier Damage Done,general
+213,Winston,Damage - Jump Pack,hero_specific
+214,Winston,Damage - Primal Rage Leap,hero_specific
+215,Winston,Damage - Primal Rage Melee,hero_specific
+216,Winston,Damage - Primal Rage Total,hero_specific
+217,Winston,Damage - Quick Melee,some_shared
+218,Winston,Damage - Weapon,some_shared
+219,Winston,Damage Blocked,some_shared
+220,Winston,Damage Taken,general
+221,Winston,Deaths,general
+222,Winston,Eliminations,general
+223,Winston,Environmental Kills,some_shared
+224,Winston,Final Blows,general
+225,Winston,Healing Received,general
+226,Winston,Hero Damage Done,general
+227,Winston,Jump Pack Kills,hero_specific
+228,Winston,Knockback Kills,some_shared
+229,Winston,Melee Final Blows,some_shared
+230,Winston,Melee Kills,hero_specific
+232,Winston,Objective Kills,general
+233,Winston,Objective Time,general
+234,Winston,Players Knocked Back,some_shared
+235,Winston,Primal Rage Efficiency,hero_specific
+236,Winston,Primal Rage Kills,hero_specific
+237,Winston,Primal Rage Melee Accuracy,hero_specific
+238,Winston,Primal Rage Melee Efficiency,hero_specific
+239,Winston,Primal Rage Melee Hits,hero_specific
+240,Winston,Primal Rage Melee Hits - Multiple,hero_specific
+241,Winston,Primal Rage Melee Ticks,hero_specific
+242,Winston,Quick Melee Accuracy,some_shared
+243,Winston,Quick Melee Hits,some_shared
+244,Winston,Quick Melee Ticks,some_shared
+245,Winston,Tesla Cannon Accuracy,hero_specific
+246,Winston,Tesla Cannon Efficiency,hero_specific
+247,Winston,Tesla Cannon Hits,hero_specific
+248,Winston,Tesla Cannon Hits - Multiple,hero_specific
+249,Winston,Tesla Cannon Ticks,hero_specific
+250,Winston,Time Alive,general
+251,Winston,Time Building Ultimate,general
+252,Winston,Time Discorded,some_shared
+253,Winston,Time Elapsed per Ultimate Earned,general
+254,Winston,Time Hacked,some_shared
+255,Winston,Time Holding Ultimate,general
+256,Winston,Time Played,general
+257,Winston,Ultimates Earned - Fractional,general
+258,Winston,Ultimates Used,general
+259,Winston,Weapon Kills,hero_specific
+260,Wrecking Ball,Average Time Alive,general
+261,Wrecking Ball,Grappling Claw Uses,hero_specific
+262,Wrecking Ball,Roll Uptime,hero_specific
+263,Wrecking Ball,Roll Uptime Percentage,hero_specific
+264,Wrecking Ball,Roll Uses,hero_specific
+265,Wrecking Ball,Time Alive,general
+266,Wrecking Ball,Time Building Ultimate,general
+267,Wrecking Ball,Time Elapsed per Ultimate Earned,general
+268,Wrecking Ball,Time Played,general
+269,Wrecking Ball,Ultimates Earned - Fractional,general
+295,Ana,All Damage Done,general
+296,Ana,Assists,general
+297,Ana,Average Time Alive,general
+298,Ana,Barrier Damage Done,general
+299,Ana,Biotic Grenade Kills,hero_specific
+300,Ana,Damage - Biotic Grenade,hero_specific
+301,Ana,Damage - Weapon,some_shared
+302,Ana,Damage - Weapon Scoped,some_shared
+303,Ana,Damage Taken,general
+304,Ana,Deaths,general
+305,Ana,Defensive Assists,some_shared
+306,Ana,Eliminations,general
+307,Ana,Final Blows,general
+308,Ana,Healing - Biotic Grenade,hero_specific
+309,Ana,Healing - Weapon,some_shared
+310,Ana,Healing - Weapon Scoped,hero_specific
+311,Ana,Healing Amplified,some_shared
+312,Ana,Healing Done,some_shared
+313,Ana,Healing Received,general
+314,Ana,Hero Damage Done,general
+315,Ana,Nano Boost Assists,hero_specific
+316,Ana,Nano Boost Efficiency,hero_specific
+317,Ana,Nano Boosts Applied,hero_specific
+318,Ana,Objective Kills,general
+319,Ana,Objective Time,general
+320,Ana,Offensive Assists,some_shared
+321,Ana,Quick Melee Ticks,some_shared
+322,Ana,Scoped Accuracy,some_shared
+323,Ana,Scoped Hits,some_shared
+324,Ana,Scoped Shots,some_shared
+325,Ana,Self Healing,some_shared
+326,Ana,Self Healing Percent of Damage Taken,some_shared
+327,Ana,Shots Fired,some_shared
+328,Ana,Shots Hit,some_shared
+329,Ana,Shots Missed,some_shared
+330,Ana,Sleep Dart Shots,hero_specific
+331,Ana,Time Alive,general
+332,Ana,Time Building Ultimate,general
+333,Ana,Time Elapsed per Ultimate Earned,general
+334,Ana,Time Holding Ultimate,general
+335,Ana,Time Played,general
+336,Ana,Ultimates Earned - Fractional,general
+337,Ana,Ultimates Used,general
+338,Ana,Unscoped Accuracy,hero_specific
+339,Ana,Unscoped Hits,hero_specific
+340,Ana,Unscoped Shots,hero_specific
+341,Ana,Weapon Accuracy,some_shared
+342,Baptiste,All Damage Done,general
+343,Baptiste,Amplification Matrix Casts,hero_specific
+344,Baptiste,Assists,general
+345,Baptiste,Average Time Alive,general
+346,Baptiste,Barrier Damage Done,general
+347,Baptiste,Biotic Launcher Healing Explosions,hero_specific
+348,Baptiste,Biotic Launcher Healing Shots,hero_specific
+349,Baptiste,Critical Hit Accuracy,some_shared
+350,Baptiste,Critical Hits,some_shared
+351,Baptiste,Damage - Weapon Primary,some_shared
+352,Baptiste,Damage Prevented,hero_specific
+353,Baptiste,Damage Taken,general
+354,Baptiste,Deaths,general
+355,Baptiste,Defensive Assists,some_shared
+356,Baptiste,Eliminations,general
+357,Baptiste,Healing - Biotic Launcher,hero_specific
+358,Baptiste,Healing - Regenerative Burst,hero_specific
+359,Baptiste,Healing Accuracy,hero_specific
+360,Baptiste,Healing Done,some_shared
+361,Baptiste,Healing Received,general
+362,Baptiste,Hero Damage Done,general
+363,Baptiste,Quick Melee Ticks,some_shared
+364,Baptiste,Self Healing,some_shared
+365,Baptiste,Self Healing Percent of Damage Taken,some_shared
+366,Baptiste,Shots Fired,some_shared
+367,Baptiste,Shots Hit,some_shared
+368,Baptiste,Shots Missed,some_shared
+369,Baptiste,Time Alive,general
+370,Baptiste,Time Building Ultimate,general
+371,Baptiste,Time Elapsed per Ultimate Earned,general
+372,Baptiste,Time Hacked,some_shared
+373,Baptiste,Time Holding Ultimate,general
+374,Baptiste,Time Played,general
+375,Baptiste,Ultimates Earned - Fractional,general
+376,Baptiste,Ultimates Used,general
+377,Baptiste,Weapon Accuracy,some_shared
+378,Moira,All Damage Done,general
+379,Moira,Assists,general
+380,Moira,Average Time Alive,general
+381,Moira,Barrier Damage Done,general
+382,Moira,Biotic Orb Damage Efficiency,hero_specific
+383,Moira,Biotic Orb Healing Efficiency,hero_specific
+384,Moira,Biotic Orb Maximum Damage,hero_specific
+385,Moira,Biotic Orb Maximum Healing,hero_specific
+386,Moira,Coalescence Healing,hero_specific
+387,Moira,Coalescence Kills,hero_specific
+388,Moira,Coalesence - Damage per Use,hero_specific
+389,Moira,Coalesence - Healing per Use,hero_specific
+390,Moira,Damage - Biotic Orb,hero_specific
+391,Moira,Damage - Coalescence,hero_specific
+392,Moira,Damage - Quick Melee,some_shared
+393,Moira,Damage - Weapon,some_shared
+394,Moira,Damage Taken,general
+395,Moira,Deaths,general
+396,Moira,Defensive Assists,some_shared
+397,Moira,Eliminations,general
+398,Moira,Final Blows,general
+399,Moira,Healing - Biotic Orb,hero_specific
+400,Moira,Healing - Coalescence,hero_specific
+401,Moira,Healing - Secondary Fire,hero_specific
+402,Moira,Healing Done,some_shared
+403,Moira,Healing Received,general
+404,Moira,Hero Damage Done,general
+405,Moira,Objective Kills,general
+406,Moira,Objective Time,general
+407,Moira,Quick Melee Accuracy,some_shared
+408,Moira,Quick Melee Hits,some_shared
+409,Moira,Quick Melee Ticks,some_shared
+410,Moira,Secondary Fire Accuracy,some_shared
+411,Moira,Secondary Fire Hits,hero_specific
+412,Moira,Secondary Fire Ticks,hero_specific
+413,Moira,Self Healing,some_shared
+414,Moira,Self Healing Percent of Damage Taken,some_shared
+415,Moira,Time Alive,general
+416,Moira,Time Building Ultimate,general
+417,Moira,Time Discorded,some_shared
+418,Moira,Time Elapsed per Ultimate Earned,general
+419,Moira,Time Holding Ultimate,general
+420,Moira,Time Played,general
+421,Moira,Ultimates Earned - Fractional,general
+422,Moira,Ultimates Used,general
+448,D.Va,All Damage Done,general
+449,D.Va,Assists,general
+450,D.Va,Average Time Alive,general
+451,D.Va,Barrier Damage Done,general
+452,D.Va,Critical Hit Accuracy,some_shared
+453,D.Va,Critical Hits,some_shared
+454,D.Va,Damage - Boosters,hero_specific
+455,D.Va,Damage - Micro Missiles,hero_specific
+456,D.Va,Damage - Pistol,hero_specific
+457,D.Va,Damage - Quick Melee,some_shared
+458,D.Va,Damage - Weapon,some_shared
+459,D.Va,Damage Blocked,some_shared
+460,D.Va,Damage Taken,general
+461,D.Va,Deaths,general
+462,D.Va,Eliminations,general
+463,D.Va,Environmental Deaths,some_shared
+464,D.Va,Final Blows,general
+465,D.Va,Healing Received,general
+466,D.Va,Hero Damage Done,general
+467,D.Va,Knockback Kills,some_shared
+468,D.Va,Mech Deaths,hero_specific
+469,D.Va,Mechs Called,hero_specific
+470,D.Va,Objective Kills,general
+471,D.Va,Objective Time,general
+472,D.Va,Quick Melee Accuracy,some_shared
+473,D.Va,Quick Melee Hits,some_shared
+474,D.Va,Quick Melee Ticks,some_shared
+475,D.Va,Self-Destructs,hero_specific
+476,D.Va,Shots Fired,some_shared
+477,D.Va,Shots Hit,some_shared
+478,D.Va,Shots Missed,some_shared
+479,D.Va,Time Alive,general
+480,D.Va,Time Building Ultimate,general
+481,D.Va,Time Discorded,some_shared
+482,D.Va,Time Elapsed per Ultimate Earned,general
+483,D.Va,Time Hacked,some_shared
+484,D.Va,Time Holding Ultimate,general
+485,D.Va,Time Played,general
+486,D.Va,Ultimates Earned - Fractional,general
+487,D.Va,Ultimates Negated,some_shared
+488,D.Va,Ultimates Used,general
+489,D.Va,Weapon Accuracy,some_shared
+517,Brigitte,All Damage Done,general
+518,Brigitte,Armor - Rally,hero_specific
+519,Brigitte,Armor Provided,hero_specific
+520,Brigitte,Assists,general
+521,Brigitte,Average Time Alive,general
+522,Brigitte,Barrier Damage Done,general
+523,Brigitte,Damage - Shield Bash,hero_specific
+524,Brigitte,Damage - Weapon,some_shared
+525,Brigitte,Damage Blocked,some_shared
+526,Brigitte,Damage Taken,general
+527,Brigitte,Deaths,general
+528,Brigitte,Defensive Assists,some_shared
+529,Brigitte,Eliminations,general
+530,Brigitte,Final Blows,general
+531,Brigitte,Healing - Inspire,hero_specific
+532,Brigitte,Healing - Repair Pack,hero_specific
+533,Brigitte,Healing Done,some_shared
+534,Brigitte,Healing Received,general
+535,Brigitte,Hero Damage Done,general
+536,Brigitte,Inspire Uptime,hero_specific
+537,Brigitte,Inspire Uptime Percentage,hero_specific
+538,Brigitte,Knockback Kills,some_shared
+539,Brigitte,Objective Kills,general
+540,Brigitte,Objective Time,general
+541,Brigitte,Offensive Assists,some_shared
+542,Brigitte,Rally Armor Efficiency,hero_specific
+543,Brigitte,Self Healing,some_shared
+544,Brigitte,Self Healing Percent of Damage Taken,some_shared
+545,Brigitte,Time Alive,general
+546,Brigitte,Time Building Ultimate,general
+547,Brigitte,Time Elapsed per Ultimate Earned,general
+548,Brigitte,Time Holding Ultimate,general
+549,Brigitte,Time Played,general
+550,Brigitte,Ultimates Earned - Fractional,general
+551,Brigitte,Ultimates Used,general
+552,Lúcio,All Damage Done,general
+553,Lúcio,Amped Heal Activations,hero_specific
+554,Lúcio,Amped Speed Activations,hero_specific
+555,Lúcio,Assists,general
+556,Lúcio,Average Time Alive,general
+557,Lúcio,Barrier Damage Done,general
+558,Lúcio,Critical Hit Accuracy,some_shared
+559,Lúcio,Critical Hits,some_shared
+560,Lúcio,Damage - Quick Melee,some_shared
+561,Lúcio,Damage - Weapon Primary,some_shared
+562,Lúcio,Damage - Weapon Secondary,some_shared
+563,Lúcio,Damage Taken,general
+564,Lúcio,Deaths,general
+565,Lúcio,Defensive Assists,some_shared
+566,Lúcio,Eliminations,general
+567,Lúcio,Final Blows,general
+568,Lúcio,Heal Song Time Elapsed,hero_specific
+569,Lúcio,Healing - Healing Boost,hero_specific
+570,Lúcio,Healing - Healing Boost Amped,hero_specific
+571,Lúcio,Healing Done,some_shared
+572,Lúcio,Healing Received,general
+573,Lúcio,Hero Damage Done,general
+574,Lúcio,Knockback Kills,some_shared
+575,Lúcio,Objective Kills,general
+576,Lúcio,Objective Time,general
+577,Lúcio,Offensive Assists,some_shared
+578,Lúcio,Players Knocked Back,some_shared
+579,Lúcio,Quick Melee Accuracy,some_shared
+580,Lúcio,Quick Melee Hits,some_shared
+581,Lúcio,Quick Melee Ticks,some_shared
+582,Lúcio,Self Healing,some_shared
+583,Lúcio,Self Healing Percent of Damage Taken,some_shared
+584,Lúcio,Shots Fired,some_shared
+585,Lúcio,Shots Hit,some_shared
+586,Lúcio,Shots Missed,some_shared
+587,Lúcio,Sound Barrier Casts,hero_specific
+588,Lúcio,Sound Barrier Efficiency,hero_specific
+589,Lúcio,Sound Barriers Provided,hero_specific
+590,Lúcio,Soundwave Kills,hero_specific
+591,Lúcio,Speed Song Time Elapsed,hero_specific
+592,Lúcio,Time Alive,general
+593,Lúcio,Time Building Ultimate,general
+594,Lúcio,Time Discorded,some_shared
+595,Lúcio,Time Elapsed per Ultimate Earned,general
+596,Lúcio,Time Hacked,some_shared
+597,Lúcio,Time Holding Ultimate,general
+598,Lúcio,Time Played,general
+599,Lúcio,Ultimates Earned - Fractional,general
+600,Lúcio,Ultimates Used,general
+601,Lúcio,Weapon Accuracy,some_shared
+627,Doomfist,Ability Damage Done,hero_specific
+628,Doomfist,All Damage Done,general
+629,Doomfist,Assists,general
+630,Doomfist,Average Time Alive,general
+631,Doomfist,Barrier Damage Done,general
+632,Doomfist,Critical Hit Accuracy,some_shared
+633,Doomfist,Critical Hits,some_shared
+634,Doomfist,Damage - Meteor Strike,hero_specific
+635,Doomfist,Damage - Quick Melee,some_shared
+636,Doomfist,Damage - Rising Uppercut,hero_specific
+637,Doomfist,Damage - Rocket Punch,hero_specific
+638,Doomfist,Damage - Seismic Slam,hero_specific
+639,Doomfist,Damage - Weapon,some_shared
+640,Doomfist,Damage Taken,general
+641,Doomfist,Deaths,general
+642,Doomfist,Eliminations,general
+643,Doomfist,Healing Received,general
+644,Doomfist,Hero Damage Done,general
+645,Doomfist,Knockback Kills,some_shared
+646,Doomfist,Objective Time,general
+647,Doomfist,Quick Melee Accuracy,some_shared
+648,Doomfist,Quick Melee Hits,some_shared
+649,Doomfist,Quick Melee Ticks,some_shared
+650,Doomfist,Shields Created,hero_specific
+651,Doomfist,Shots Fired,some_shared
+652,Doomfist,Shots Hit,some_shared
+653,Doomfist,Shots Missed,some_shared
+654,Doomfist,Time Alive,general
+655,Doomfist,Time Building Ultimate,general
+656,Doomfist,Time Elapsed per Ultimate Earned,general
+657,Doomfist,Time Hacked,some_shared
+658,Doomfist,Time Holding Ultimate,general
+659,Doomfist,Time Played,general
+660,Doomfist,Ultimates Earned - Fractional,general
+661,Doomfist,Ultimates Used,general
+662,Doomfist,Weapon Accuracy,some_shared
+673,Tracer,All Damage Done,general
+674,Tracer,Assists,general
+675,Tracer,Average Time Alive,general
+676,Tracer,Barrier Damage Done,general
+677,Tracer,Critical Hit Accuracy,some_shared
+678,Tracer,Critical Hits,some_shared
+679,Tracer,Damage - Pulse Bomb,hero_specific
+680,Tracer,Damage - Quick Melee,some_shared
+681,Tracer,Damage - Weapon,some_shared
+682,Tracer,Damage Taken,general
+683,Tracer,Deaths,general
+684,Tracer,Eliminations,general
+685,Tracer,Final Blows,general
+686,Tracer,Healing Received,general
+687,Tracer,Health Recovered,hero_specific
+688,Tracer,Hero Damage Done,general
+689,Tracer,Match Blinks Used,hero_specific
+690,Tracer,Melee Final Blows,some_shared
+691,Tracer,Objective Kills,general
+692,Tracer,Objective Time,general
+693,Tracer,Pulse Bomb Attach Rate,hero_specific
+694,Tracer,Pulse Bomb Efficiency,hero_specific
+695,Tracer,Pulse Bomb Kills,hero_specific
+696,Tracer,Pulse Bombs Attached,hero_specific
+697,Tracer,Quick Melee Accuracy,some_shared
+698,Tracer,Quick Melee Hits,some_shared
+699,Tracer,Quick Melee Ticks,some_shared
+700,Tracer,Recalls Used,hero_specific
+701,Tracer,Self Healing,some_shared
+702,Tracer,Self Healing Percent of Damage Taken,some_shared
+703,Tracer,Shots Fired,some_shared
+704,Tracer,Shots Hit,some_shared
+705,Tracer,Shots Missed,some_shared
+706,Tracer,Time Alive,general
+707,Tracer,Time Building Ultimate,general
+708,Tracer,Time Discorded,some_shared
+709,Tracer,Time Elapsed per Ultimate Earned,general
+710,Tracer,Time Hacked,some_shared
+711,Tracer,Time Holding Ultimate,general
+712,Tracer,Time Played,general
+713,Tracer,Ultimates Earned - Fractional,general
+714,Tracer,Ultimates Used,general
+715,Tracer,Weapon Accuracy,some_shared
+753,Ana,Enemies Slept,hero_specific
+775,Ana,Sleep Dart Hits,hero_specific
+777,Ana,Sleep Dart Success Rate,hero_specific
+781,Ana,Time Hacked,some_shared
+799,Baptiste,Damage - Quick Melee,some_shared
+801,Baptiste,Damage Amplified,some_shared
+806,Baptiste,Final Blows,general
+808,Baptiste,Healing - Immortality Field,hero_specific
+811,Baptiste,Healing Amplified,some_shared
+815,Baptiste,Objective Kills,general
+816,Baptiste,Objective Time,general
+817,Baptiste,Quick Melee Accuracy,some_shared
+818,Baptiste,Quick Melee Hits,some_shared
+833,Zenyatta,All Damage Done,general
+834,Zenyatta,Assists,general
+835,Zenyatta,Average Time Alive,general
+836,Zenyatta,Barrier Damage Done,general
+837,Zenyatta,Critical Hit Accuracy,some_shared
+838,Zenyatta,Critical Hits,some_shared
+839,Zenyatta,Damage - Discord Orb,hero_specific
+840,Zenyatta,Damage - Weapon Charged,hero_specific
+841,Zenyatta,Damage - Weapon Primary,some_shared
+842,Zenyatta,Damage Taken,general
+843,Zenyatta,Deaths,general
+844,Zenyatta,Defensive Assists,some_shared
+845,Zenyatta,Discord Orb Time,hero_specific
+846,Zenyatta,Eliminations,general
+847,Zenyatta,Final Blows,general
+848,Zenyatta,Harmony Orb Time,hero_specific
+849,Zenyatta,Healing - Harmony Orb,hero_specific
+850,Zenyatta,Healing - Transcendence,hero_specific
+851,Zenyatta,Healing Done,some_shared
+852,Zenyatta,Healing Received,general
+853,Zenyatta,Hero Damage Done,general
+854,Zenyatta,Objective Kills,general
+855,Zenyatta,Objective Time,general
+856,Zenyatta,Offensive Assists,some_shared
+857,Zenyatta,Quick Melee Ticks,some_shared
+858,Zenyatta,Self Healing,some_shared
+859,Zenyatta,Self Healing Percent of Damage Taken,some_shared
+860,Zenyatta,Shots Fired,some_shared
+861,Zenyatta,Shots Hit,some_shared
+862,Zenyatta,Shots Missed,some_shared
+863,Zenyatta,Time Alive,general
+864,Zenyatta,Time Building Ultimate,general
+865,Zenyatta,Time Elapsed per Ultimate Earned,general
+866,Zenyatta,Time Hacked,some_shared
+867,Zenyatta,Time Holding Ultimate,general
+868,Zenyatta,Time Played,general
+869,Zenyatta,Transcendence Efficiency,hero_specific
+870,Zenyatta,Transcendence Healing,hero_specific
+871,Zenyatta,Transcendence Percent of Healing,hero_specific
+872,Zenyatta,Ultimates Earned - Fractional,general
+873,Zenyatta,Ultimates Used,general
+874,Zenyatta,Weapon Accuracy,some_shared
+903,Echo,Assists,general
+905,Echo,Barrier Damage Done,general
+908,Echo,Damage - Duplicate,hero_specific
+909,Echo,Damage - Focusing Beam,hero_specific
+910,Echo,Damage - Focusing Beam - Bonus Damage Only,hero_specific
+915,Echo,Duplicate Kills,hero_specific
+916,Echo,Eliminations,general
+917,Echo,Final Blows,general
+918,Echo,Focusing Beam Accuracy,hero_specific
+919,Echo,Focusing Beam Dealing Damage Seconds,hero_specific
+920,Echo,Focusing Beam Kills,hero_specific
+921,Echo,Focusing Beam Seconds,hero_specific
+924,Echo,Objective Kills,general
+925,Echo,Objective Time,general
+933,Echo,Sticky Bombs Kills,hero_specific
+938,Echo,Time Hacked,some_shared
+939,Echo,Time Holding Ultimate,general
+942,Echo,Ultimates Used,general
+959,Sombra,Multikills,general
+977,Symmetra,Quick Melee Ticks,some_shared
+990,Tracer,Critical Hit Kills,some_shared
+1019,Tracer,Solo Kills,general
+1055,Ashe,All Damage Done,general
+1056,Ashe,Assists,general
+1057,Ashe,Average Time Alive,general
+1058,Ashe,Barrier Damage Done,general
+1059,Ashe,Bob Gun Damage,hero_specific
+1060,Ashe,Bob Kills,hero_specific
+1061,Ashe,Critical Hit Accuracy,some_shared
+1062,Ashe,Critical Hits,some_shared
+1063,Ashe,Damage - Bob,hero_specific
+1064,Ashe,Damage - Bob Charge,hero_specific
+1065,Ashe,Damage - Coach Gun,hero_specific
+1066,Ashe,Damage - Dynamite,hero_specific
+1067,Ashe,Damage - Weapon,some_shared
+1068,Ashe,Damage - Weapon Scoped,some_shared
+1069,Ashe,Damage Taken,general
+1070,Ashe,Deaths,general
+1071,Ashe,Dynamite Kills,hero_specific
+1072,Ashe,Eliminations,general
+1073,Ashe,Environmental Deaths,some_shared
+1074,Ashe,Final Blows,general
+1075,Ashe,Healing Received,general
+1076,Ashe,Hero Damage Done,general
+1077,Ashe,Objective Kills,general
+1078,Ashe,Objective Time,general
+1079,Ashe,Players Knocked Back,some_shared
+1080,Ashe,Quick Melee Ticks,some_shared
+1081,Ashe,Scoped Accuracy,some_shared
+1082,Ashe,Scoped Critical Hit Accuracy,some_shared
+1083,Ashe,Scoped Critical Hits,some_shared
+1084,Ashe,Scoped Hits,some_shared
+1085,Ashe,Scoped Shots,some_shared
+1086,Ashe,Shots Fired,some_shared
+1087,Ashe,Shots Hit,some_shared
+1088,Ashe,Shots Missed,some_shared
+1089,Ashe,Solo Kills,general
+1090,Ashe,Time Alive,general
+1091,Ashe,Time Building Ultimate,general
+1092,Ashe,Time Elapsed per Ultimate Earned,general
+1093,Ashe,Time Holding Ultimate,general
+1094,Ashe,Time Played,general
+1095,Ashe,Ultimates Earned - Fractional,general
+1096,Ashe,Ultimates Used,general
+1097,Ashe,Weapon Accuracy,some_shared
+1098,McCree,All Damage Done,general
+1099,McCree,Assists,general
+1100,McCree,Average Time Alive,general
+1101,McCree,Barrier Damage Done,general
+1102,McCree,Critical Hit Accuracy,some_shared
+1103,McCree,Critical Hit Kills,some_shared
+1104,McCree,Critical Hits,some_shared
+1105,McCree,Damage - Deadeye,hero_specific
+1106,McCree,Damage - Flashbang,hero_specific
+1107,McCree,Damage - Quick Melee,some_shared
+1108,McCree,Damage - Weapon Primary,some_shared
+1109,McCree,Damage - Weapon Secondary,some_shared
+1110,McCree,Damage Taken,general
+1111,McCree,Deadeye Efficiency,hero_specific
+1112,McCree,Deadeye Kills,hero_specific
+1113,McCree,Deaths,general
+1114,McCree,Eliminations,general
+1115,McCree,Fan the Hammer Kills,hero_specific
+1116,McCree,Final Blows,general
+1117,McCree,Healing Received,general
+1118,McCree,Hero Damage Done,general
+1119,McCree,Melee Final Blows,some_shared
+1120,McCree,Objective Kills,general
+1121,McCree,Objective Time,general
+1122,McCree,Quick Melee Accuracy,some_shared
+1123,McCree,Quick Melee Hits,some_shared
+1124,McCree,Quick Melee Ticks,some_shared
+1125,McCree,Shots Fired,some_shared
+1126,McCree,Shots Hit,some_shared
+1127,McCree,Shots Missed,some_shared
+1128,McCree,Time Alive,general
+1129,McCree,Time Building Ultimate,general
+1130,McCree,Time Elapsed per Ultimate Earned,general
+1131,McCree,Time Hacked,some_shared
+1132,McCree,Time Holding Ultimate,general
+1133,McCree,Time Played,general
+1134,McCree,Ultimates Earned - Fractional,general
+1135,McCree,Ultimates Used,general
+1136,McCree,Weapon Accuracy,some_shared
+1192,Reinhardt,Assists,general
+1202,Reinhardt,Fire Strike Kills,hero_specific
+1252,Winston,Solo Kills,general
+1267,Wrecking Ball,Adaptive Shield Uses,hero_specific
+1268,Wrecking Ball,Air Uptime,hero_specific
+1269,Wrecking Ball,Air Uptime Percentage,hero_specific
+1270,Wrecking Ball,All Damage Done,general
+1271,Wrecking Ball,Assists,general
+1273,Wrecking Ball,Barrier Damage Done,general
+1274,Wrecking Ball,Damage - Grappling Claw,hero_specific
+1275,Wrecking Ball,Damage - Minefield,hero_specific
+1276,Wrecking Ball,Damage - Piledriver,hero_specific
+1277,Wrecking Ball,Damage - Quick Melee,some_shared
+1278,Wrecking Ball,Damage - Weapon,some_shared
+1279,Wrecking Ball,Damage Taken,general
+1280,Wrecking Ball,Damage Taken - Adaptive Shield,hero_specific
+1281,Wrecking Ball,Damage Taken - Ball,hero_specific
+1282,Wrecking Ball,Damage Taken - Tank,hero_specific
+1283,Wrecking Ball,Deaths,general
+1284,Wrecking Ball,Eliminations,general
+1285,Wrecking Ball,Final Blows,general
+1286,Wrecking Ball,Grappling Claw Impacts,hero_specific
+1287,Wrecking Ball,Grappling Claw Kills,hero_specific
+1289,Wrecking Ball,Healing Received,general
+1290,Wrecking Ball,Hero Damage Done,general
+1291,Wrecking Ball,Knockback Kills,some_shared
+1292,Wrecking Ball,Minefield Kills,hero_specific
+1293,Wrecking Ball,Objective Kills,general
+1294,Wrecking Ball,Objective Time,general
+1295,Wrecking Ball,Piledriver Kills,hero_specific
+1296,Wrecking Ball,Piledriver Uses,hero_specific
+1297,Wrecking Ball,Players Knocked Back,some_shared
+1298,Wrecking Ball,Quick Melee Accuracy,some_shared
+1299,Wrecking Ball,Quick Melee Hits,some_shared
+1300,Wrecking Ball,Quick Melee Ticks,some_shared
+1304,Wrecking Ball,Shielding - Adaptive Shield,hero_specific
+1305,Wrecking Ball,Shots Fired,some_shared
+1306,Wrecking Ball,Shots Hit,some_shared
+1307,Wrecking Ball,Shots Missed,some_shared
+1311,Wrecking Ball,Time Hacked,some_shared
+1312,Wrecking Ball,Time Holding Ultimate,general
+1315,Wrecking Ball,Ultimates Used,general
+1316,Wrecking Ball,Weapon Accuracy,some_shared
+1373,Brigitte,Time Hacked,some_shared
+1460,D.Va,Damage - Self Destruct,hero_specific
+1492,Sigma,Accretion Kills,hero_specific
+1493,Sigma,Accretion Stuns,hero_specific
+1494,Sigma,All Damage Done,general
+1495,Sigma,Assists,general
+1496,Sigma,Average Time Alive,general
+1497,Sigma,Barrier Damage Done,general
+1498,Sigma,Damage - Accretion,hero_specific
+1499,Sigma,Damage - Hyperspheres,hero_specific
+1500,Sigma,Damage - Quick Melee,some_shared
+1501,Sigma,Damage Absorbed,hero_specific
+1502,Sigma,Damage Blocked,some_shared
+1503,Sigma,Damage Taken,general
+1504,Sigma,Deaths,general
+1505,Sigma,Eliminations,general
+1506,Sigma,Final Blows,general
+1507,Sigma,Gravitic Flux Damage Done,hero_specific
+1508,Sigma,Gravitic Flux Kills,hero_specific
+1509,Sigma,Healing Received,general
+1510,Sigma,Hero Damage Done,general
+1511,Sigma,Hyperspheres Direct Hits,hero_specific
+1512,Sigma,Objective Kills,general
+1513,Sigma,Objective Time,general
+1514,Sigma,Offensive Assists,some_shared
+1515,Sigma,Quick Melee Accuracy,some_shared
+1516,Sigma,Quick Melee Hits,some_shared
+1517,Sigma,Quick Melee Ticks,some_shared
+1518,Sigma,Time Alive,general
+1519,Sigma,Time Building Ultimate,general
+1520,Sigma,Time Elapsed per Ultimate Earned,general
+1521,Sigma,Time Hacked,some_shared
+1522,Sigma,Time Holding Ultimate,general
+1523,Sigma,Time Played,general
+1524,Sigma,Ultimates Earned - Fractional,general
+1525,Sigma,Ultimates Used,general
+1553,Hanzo,All Damage Done,general
+1554,Hanzo,Average Time Alive,general
+1555,Hanzo,Barrier Damage Done,general
+1556,Hanzo,Critical Hit Accuracy,some_shared
+1557,Hanzo,Critical Hit Kills,some_shared
+1558,Hanzo,Critical Hits,some_shared
+1559,Hanzo,Damage - Dragonstrike,hero_specific
+1560,Hanzo,Damage - Quick Melee,some_shared
+1561,Hanzo,Damage - Sonic,hero_specific
+1562,Hanzo,Damage - Storm Arrows,hero_specific
+1563,Hanzo,Damage - Weapon,some_shared
+1564,Hanzo,Damage Taken,general
+1565,Hanzo,Deaths,general
+1566,Hanzo,Dragonstrike Efficiency,hero_specific
+1567,Hanzo,Dragonstrike Kills,hero_specific
+1568,Hanzo,Eliminations,general
+1569,Hanzo,Final Blows,general
+1570,Hanzo,Healing Received,general
+1571,Hanzo,Hero Damage Done,general
+1572,Hanzo,Infra-Sight Efficiency,some_shared
+1573,Hanzo,Objective Kills,general
+1574,Hanzo,Objective Time,general
+1575,Hanzo,Quick Melee Accuracy,some_shared
+1576,Hanzo,Quick Melee Hits,some_shared
+1577,Hanzo,Quick Melee Ticks,some_shared
+1578,Hanzo,Recon Assists,some_shared
+1579,Hanzo,Shots Fired,some_shared
+1580,Hanzo,Shots Hit,some_shared
+1581,Hanzo,Shots Missed,some_shared
+1582,Hanzo,Solo Kills,general
+1583,Hanzo,Storm Arrow Kills,hero_specific
+1584,Hanzo,Time Alive,general
+1585,Hanzo,Time Building Ultimate,general
+1586,Hanzo,Time Elapsed per Ultimate Earned,general
+1587,Hanzo,Time Holding Ultimate,general
+1588,Hanzo,Time Played,general
+1589,Hanzo,Ultimates Earned - Fractional,general
+1590,Hanzo,Ultimates Used,general
+1591,Hanzo,Weapon Accuracy,some_shared
+1601,Mei,Damage - Quick Melee,some_shared
+1609,Mei,Final Blows,general
+1616,Mei,Quick Melee Accuracy,some_shared
+1617,Mei,Quick Melee Hits,some_shared
+1664,Reinhardt,Charge Kills,hero_specific
+1672,Reinhardt,Earthshatter Efficiency,hero_specific
+1673,Reinhardt,Earthshatter Kills,hero_specific
+1680,Reinhardt,Knockback Kills,some_shared
+1682,Reinhardt,Offensive Assists,some_shared
+1709,Winston,Environmental Deaths,some_shared
+1717,Winston,Multikills,general
+1777,D.Va,Critical Hit Kills,some_shared
+1813,Zarya,All Damage Done,general
+1814,Zarya,Assists,general
+1815,Zarya,Average Energy,hero_specific
+1816,Zarya,Average Time Alive,general
+1817,Zarya,Barrier Damage Done,general
+1818,Zarya,Damage - Graviton Surge,hero_specific
+1819,Zarya,Damage - Quick Melee,some_shared
+1820,Zarya,Damage - Weapon Primary,some_shared
+1821,Zarya,Damage - Weapon Secondary,some_shared
+1822,Zarya,Damage Blocked,some_shared
+1823,Zarya,Damage Taken,general
+1824,Zarya,Deaths,general
+1825,Zarya,Defensive Assists,some_shared
+1826,Zarya,Eliminations,general
+1827,Zarya,Energy Maximum,hero_specific
+1828,Zarya,Final Blows,general
+1829,Zarya,Graviton Surge Efficiency,hero_specific
+1830,Zarya,Graviton Surge Kills,hero_specific
+1831,Zarya,Healing Received,general
+1832,Zarya,Hero Damage Done,general
+1833,Zarya,High Energy Kills,hero_specific
+1834,Zarya,Lifetime Energy Accumulation,hero_specific
+1835,Zarya,Multikills,general
+1836,Zarya,Objective Kills,general
+1837,Zarya,Objective Time,general
+1838,Zarya,Offensive Assists,some_shared
+1839,Zarya,Primary Fire Accuracy,some_shared
+1840,Zarya,Primary Fire Hits,some_shared
+1841,Zarya,Primary Fire Ticks,some_shared
+1842,Zarya,Projected Barrier Damage Blocked,hero_specific
+1843,Zarya,Projected Barriers Applied,hero_specific
+1844,Zarya,Quick Melee Accuracy,some_shared
+1845,Zarya,Quick Melee Hits,some_shared
+1846,Zarya,Quick Melee Ticks,some_shared
+1847,Zarya,Shots Fired,some_shared
+1848,Zarya,Shots Hit,some_shared
+1849,Zarya,Shots Missed,some_shared
+1850,Zarya,Time Alive,general
+1851,Zarya,Time Building Ultimate,general
+1852,Zarya,Time Elapsed per Ultimate Earned,general
+1853,Zarya,Time Hacked,some_shared
+1854,Zarya,Time Holding Ultimate,general
+1855,Zarya,Time Played,general
+1856,Zarya,Ultimates Earned - Fractional,general
+1857,Zarya,Ultimates Used,general
+1858,Zarya,Weapon Accuracy,some_shared
+1903,Lúcio,Environmental Kills,some_shared
+1912,Lúcio,Melee Final Blows,some_shared
+1972,Ana,Damage - Quick Melee,some_shared
+1988,Ana,Melee Final Blows,some_shared
+1995,Ana,Quick Melee Accuracy,some_shared
+1996,Ana,Quick Melee Hits,some_shared
+2102,Doomfist,Final Blows,general
+2106,Doomfist,Meteor Strike Efficiency,hero_specific
+2107,Doomfist,Meteor Strike Kills,hero_specific
+2108,Doomfist,Objective Kills,general
+2208,Baptiste,Amplification Matrix Assists,hero_specific
+2210,Baptiste,Amplification Matrix Efficiency,hero_specific
+2217,Baptiste,Critical Hit Kills,some_shared
+2235,Baptiste,Immortality Field Deaths Prevented,hero_specific
+2238,Baptiste,Offensive Assists,some_shared
+2245,Baptiste,Solo Kills,general
+2299,Mei,Objective Kills,general
+2319,Pharah,Average Time Alive,general
+2320,Pharah,Time Alive,general
+2321,Pharah,Time Building Ultimate,general
+2322,Pharah,Time Elapsed per Ultimate Earned,general
+2323,Pharah,Time Played,general
+2324,Pharah,Ultimates Earned - Fractional,general
+2382,Hanzo,Assists,general
+2452,Widowmaker,All Damage Done,general
+2453,Widowmaker,Average Time Alive,general
+2454,Widowmaker,Barrier Damage Done,general
+2455,Widowmaker,Shots Fired,some_shared
+2456,Widowmaker,Time Alive,general
+2457,Widowmaker,Time Building Ultimate,general
+2458,Widowmaker,Time Elapsed per Ultimate Earned,general
+2459,Widowmaker,Time Played,general
+2460,Widowmaker,Ultimates Earned - Fractional,general
+2499,Reinhardt,Environmental Deaths,some_shared
+2504,Reinhardt,Objective Kills,general
+2569,Lúcio,Multikills,general
+2639,D.Va,Environmental Kills,some_shared
+2651,D.Va,Self Destruct Efficiency,hero_specific
+2652,D.Va,Self-Destruct Kills,hero_specific
+2724,Hanzo,Time Discorded,some_shared
+2738,Mei,Critical Hit Kills,some_shared
+2797,Orisa,All Damage Done,general
+2798,Orisa,Assists,general
+2799,Orisa,Average Time Alive,general
+2800,Orisa,Barrier Damage Done,general
+2801,Orisa,Critical Hit Kills,some_shared
+2802,Orisa,Damage - Weapon,some_shared
+2803,Orisa,Damage Amplified,some_shared
+2804,Orisa,Damage Blocked,some_shared
+2805,Orisa,Damage Taken,general
+2806,Orisa,Deaths,general
+2807,Orisa,Eliminations,general
+2808,Orisa,Final Blows,general
+2809,Orisa,Healing Received,general
+2810,Orisa,Hero Damage Done,general
+2811,Orisa,Objective Kills,general
+2812,Orisa,Objective Time,general
+2813,Orisa,Offensive Assists,some_shared
+2814,Orisa,Players Halted,hero_specific
+2815,Orisa,Quick Melee Ticks,some_shared
+2816,Orisa,Shots Fired,some_shared
+2817,Orisa,Shots Hit,some_shared
+2818,Orisa,Shots Missed,some_shared
+2819,Orisa,Supercharger Assists,hero_specific
+2820,Orisa,Supercharger Efficiency,hero_specific
+2821,Orisa,Time Alive,general
+2822,Orisa,Time Building Ultimate,general
+2823,Orisa,Time Discorded,some_shared
+2824,Orisa,Time Elapsed per Ultimate Earned,general
+2825,Orisa,Time Holding Ultimate,general
+2826,Orisa,Time Played,general
+2827,Orisa,Ultimates Earned - Fractional,general
+2828,Orisa,Ultimates Used,general
+2829,Orisa,Weapon Accuracy,some_shared
+2893,Wrecking Ball,Time Discorded,some_shared
+2954,Brigitte,Time Discorded,some_shared
+3105,Sigma,Time Discorded,some_shared
+3175,Baptiste,Time Discorded,some_shared
+3215,Doomfist,Critical Hit Kills,some_shared
+3230,Doomfist,Melee Final Blows,some_shared
+3242,Doomfist,Solo Kills,general
+3252,Genji,All Damage Done,general
+3253,Genji,Assists,general
+3254,Genji,Average Time Alive,general
+3255,Genji,Barrier Damage Done,general
+3256,Genji,Critical Hit Accuracy,some_shared
+3257,Genji,Critical Hits,some_shared
+3258,Genji,Damage - Deflect,hero_specific
+3259,Genji,Damage - Dragonblade,hero_specific
+3260,Genji,Damage - Dragonblade Total,hero_specific
+3261,Genji,Damage - Quick Melee,some_shared
+3262,Genji,Damage - Swift Strike,hero_specific
+3263,Genji,Damage - Swift Strike Dragonblade,hero_specific
+3264,Genji,Damage - Weapon Primary,some_shared
+3265,Genji,Damage - Weapon Secondary,some_shared
+3266,Genji,Damage Reflected,hero_specific
+3267,Genji,Damage Taken,general
+3268,Genji,Deaths,general
+3269,Genji,Deflection Kills,hero_specific
+3270,Genji,Dragonblade Efficiency,hero_specific
+3271,Genji,Dragonblade Kills,hero_specific
+3272,Genji,Dragonblades,hero_specific
+3273,Genji,Eliminations,general
+3274,Genji,Final Blows,general
+3275,Genji,Healing Received,general
+3276,Genji,Hero Damage Done,general
+3277,Genji,Melee Final Blows,some_shared
+3278,Genji,Objective Kills,general
+3279,Genji,Objective Time,general
+3280,Genji,Quick Melee Accuracy,some_shared
+3281,Genji,Quick Melee Hits,some_shared
+3282,Genji,Quick Melee Ticks,some_shared
+3283,Genji,Shots Fired,some_shared
+3284,Genji,Shots Hit,some_shared
+3285,Genji,Shots Missed,some_shared
+3286,Genji,Solo Kills,general
+3287,Genji,Time Alive,general
+3288,Genji,Time Building Ultimate,general
+3289,Genji,Time Discorded,some_shared
+3290,Genji,Time Elapsed per Ultimate Earned,general
+3291,Genji,Time Holding Ultimate,general
+3292,Genji,Time Played,general
+3293,Genji,Ultimates Earned - Fractional,general
+3294,Genji,Ultimates Used,general
+3295,Genji,Weapon Accuracy,some_shared
+3369,Zenyatta,Critical Hit Kills,some_shared
+3386,Zenyatta,Multikills,general
+3396,Zenyatta,Solo Kills,general
+3482,Sombra,Critical Hit Kills,some_shared
+3532,Tracer,Multikills,general
+3595,Hanzo,Environmental Deaths,some_shared
+3631,McCree,Multikills,general
+3638,McCree,Solo Kills,general
+3677,Widowmaker,Critical Hit Accuracy,some_shared
+3678,Widowmaker,Critical Hits,some_shared
+3679,Widowmaker,Damage - Weapon,some_shared
+3680,Widowmaker,Damage - Weapon Scoped,some_shared
+3681,Widowmaker,Damage Taken,general
+3682,Widowmaker,Deaths,general
+3683,Widowmaker,Healing Received,general
+3684,Widowmaker,Hero Damage Done,general
+3685,Widowmaker,Infra-sight Uptime,hero_specific
+3686,Widowmaker,Quick Melee Ticks,some_shared
+3687,Widowmaker,Scoped Accuracy,some_shared
+3688,Widowmaker,Scoped Critical Hit Accuracy,some_shared
+3689,Widowmaker,Scoped Critical Hits,some_shared
+3690,Widowmaker,Scoped Hits,some_shared
+3691,Widowmaker,Scoped Shots,some_shared
+3693,Widowmaker,Shots Hit,some_shared
+3694,Widowmaker,Shots Missed,some_shared
+3698,Widowmaker,Time Holding Ultimate,general
+3701,Widowmaker,Ultimates Used,general
+3702,Widowmaker,Weapon Accuracy,some_shared
+3741,Orisa,Multikills,general
+3799,Wrecking Ball,Critical Hit Kills,some_shared
+3990,D.Va,Damage - Call Mech,hero_specific
+4054,Sigma,Solo Kills,general
+4095,Echo,Critical Hit Kills,some_shared
+4113,Echo,Multikills,general
+4132,Soldier: 76,Time Alive,general
+4133,Soldier: 76,Time Building Ultimate,general
+4148,Sombra,Environmental Deaths,some_shared
+4149,Sombra,Environmental Kills,some_shared
+4160,Sombra,Solo Kills,general
+4354,Moira,Time Hacked,some_shared
+4409,D.Va,Melee Final Blows,some_shared
+4598,Lúcio,Solo Kills,general
+4637,Reaper,Assists,general
+4640,Reaper,Critical Hit Accuracy,some_shared
+4641,Reaper,Critical Hits,some_shared
+4645,Reaper,Eliminations,general
+4646,Reaper,Final Blows,general
+4649,Reaper,Objective Kills,general
+4650,Reaper,Objective Time,general
+4651,Reaper,Quick Melee Ticks,some_shared
+4660,Reaper,Time Hacked,some_shared
+4661,Reaper,Time Holding Ultimate,general
+4743,Ana,Environmental Deaths,some_shared
+4819,Echo,Damage - Quick Melee,some_shared
+4835,Echo,Quick Melee Accuracy,some_shared
+4836,Echo,Quick Melee Hits,some_shared
+4868,Tracer,Environmental Deaths,some_shared
+5277,Zarya,Environmental Deaths,some_shared
+5285,Zarya,Melee Final Blows,some_shared
+5367,Echo,Solo Kills,general
+5554,Zarya,Solo Kills,general
+5907,Echo,Melee Final Blows,some_shared
+5958,Symmetra,Primary Fire Ticks,some_shared
+6528,Ashe,Multikills,general
+6551,Symmetra,Shots Fired,some_shared
+6552,Symmetra,Shots Missed,some_shared
+6795,D.Va,Solo Kills,general
+6950,Ashe,Damage - Quick Melee,some_shared
+6963,Ashe,Quick Melee Accuracy,some_shared
+6964,Ashe,Quick Melee Hits,some_shared
+7234,Soldier: 76,All Damage Done,general
+7235,Soldier: 76,Assists,general
+7236,Soldier: 76,Barrier Damage Done,general
+7237,Soldier: 76,Biotic Field Healing Done,hero_specific
+7238,Soldier: 76,Biotic Fields Deployed,hero_specific
+7239,Soldier: 76,Critical Hit Accuracy,some_shared
+7240,Soldier: 76,Critical Hit Kills,some_shared
+7241,Soldier: 76,Critical Hits,some_shared
+7242,Soldier: 76,Damage - Helix Rockets,hero_specific
+7243,Soldier: 76,Damage - Tactical Visor,hero_specific
+7244,Soldier: 76,Damage - Weapon,some_shared
+7245,Soldier: 76,Damage Taken,general
+7246,Soldier: 76,Deaths,general
+7247,Soldier: 76,Defensive Assists,some_shared
+7248,Soldier: 76,Eliminations,general
+7249,Soldier: 76,Final Blows,general
+7250,Soldier: 76,Healing Done,some_shared
+7251,Soldier: 76,Healing Received,general
+7252,Soldier: 76,Helix Rocket Kills,hero_specific
+7253,Soldier: 76,Hero Damage Done,general
+7254,Soldier: 76,Objective Kills,general
+7255,Soldier: 76,Objective Time,general
+7256,Soldier: 76,Quick Melee Ticks,some_shared
+7257,Soldier: 76,Self Healing,some_shared
+7258,Soldier: 76,Self Healing Percent of Damage Taken,some_shared
+7259,Soldier: 76,Shots Fired,some_shared
+7260,Soldier: 76,Shots Hit,some_shared
+7261,Soldier: 76,Shots Missed,some_shared
+7262,Soldier: 76,Tactical Visor Efficiency,hero_specific
+7263,Soldier: 76,Tactical Visor Kills,hero_specific
+7264,Soldier: 76,Tactical Visors,hero_specific
+7267,Soldier: 76,Time Elapsed per Ultimate Earned,general
+7268,Soldier: 76,Time Holding Ultimate,general
+7269,Soldier: 76,Time Played,general
+7270,Soldier: 76,Ultimates Earned - Fractional,general
+7271,Soldier: 76,Ultimates Used,general
+7272,Soldier: 76,Weapon Accuracy,some_shared
+7580,D.Va,Multikills,general
+7627,Junkrat,Average Time Alive,general
+7628,Junkrat,Quick Melee Ticks,some_shared
+7629,Junkrat,Shots Fired,some_shared
+7630,Junkrat,Shots Missed,some_shared
+7631,Junkrat,Time Alive,general
+7632,Junkrat,Time Building Ultimate,general
+7633,Junkrat,Time Elapsed per Ultimate Earned,general
+7634,Junkrat,Time Played,general
+7635,Junkrat,Ultimates Earned - Fractional,general
+7671,Mei,Solo Kills,general
+7715,Lúcio,Critical Hit Kills,some_shared
+7943,Lúcio,Environmental Deaths,some_shared
+8081,Baptiste,Environmental Deaths,some_shared
+8371,Widowmaker,Critical Hit Kills,some_shared
+8376,Widowmaker,Eliminations,general
+8377,Widowmaker,Final Blows,general
+8382,Widowmaker,Scoped Critical Hit Kills,some_shared
+8419,Roadhog,Average Time Alive,general
+8420,Roadhog,Damage Taken,general
+8421,Roadhog,Healing Received,general
+8422,Roadhog,Time Alive,general
+8423,Roadhog,Time Building Ultimate,general
+8424,Roadhog,Time Elapsed per Ultimate Earned,general
+8425,Roadhog,Time Played,general
+8426,Roadhog,Ultimates Earned - Fractional,general
+8902,Symmetra,Damage Taken,general
+8903,Symmetra,Healing Received,general
+9122,Roadhog,Hooks Attempted,hero_specific
+9123,Roadhog,Quick Melee Ticks,some_shared
+9233,Bastion,All Damage Done,general
+9234,Bastion,Average Time Alive,general
+9235,Bastion,Barrier Damage Done,general
+9236,Bastion,Critical Hit Accuracy,some_shared
+9237,Bastion,Critical Hit Kills,some_shared
+9238,Bastion,Critical Hits,some_shared
+9239,Bastion,Damage - Weapon Recon,hero_specific
+9240,Bastion,Damage - Weapon Sentry,hero_specific
+9241,Bastion,Damage - Weapon Tank,hero_specific
+9242,Bastion,Damage Taken,general
+9243,Bastion,Deaths,general
+9244,Bastion,Eliminations,general
+9245,Bastion,Final Blows,general
+9246,Bastion,Healing Received,general
+9247,Bastion,Hero Damage Done,general
+9248,Bastion,Quick Melee Ticks,some_shared
+9249,Bastion,Recon Kills,hero_specific
+9250,Bastion,Self Healing,some_shared
+9251,Bastion,Self Healing Percent of Damage Taken,some_shared
+9252,Bastion,Sentry Kills,hero_specific
+9253,Bastion,Shots Fired,some_shared
+9254,Bastion,Shots Hit,some_shared
+9255,Bastion,Shots Missed,some_shared
+9256,Bastion,Solo Kills,general
+9257,Bastion,Time Alive,general
+9258,Bastion,Time Building Ultimate,general
+9259,Bastion,Time Elapsed per Ultimate Earned,general
+9260,Bastion,Time Holding Ultimate,general
+9261,Bastion,Time Played,general
+9262,Bastion,Ultimates Earned - Fractional,general
+9263,Bastion,Ultimates Used,general
+9264,Bastion,Weapon Accuracy,some_shared
+9280,Mei,Environmental Deaths,some_shared
+9556,McCree,Environmental Deaths,some_shared
+9572,Pharah,All Damage Done,general
+9573,Pharah,Assists,general
+9575,Pharah,Barrage Efficiency,hero_specific
+9576,Pharah,Barrage Kills,hero_specific
+9577,Pharah,Barrier Damage Done,general
+9578,Pharah,Damage - Barrage,hero_specific
+9579,Pharah,Damage - Quick Melee,some_shared
+9580,Pharah,Damage - Weapon,some_shared
+9581,Pharah,Damage Taken,general
+9582,Pharah,Deaths,general
+9583,Pharah,Direct Hit Accuracy,hero_specific
+9584,Pharah,Eliminations,general
+9585,Pharah,Final Blows,general
+9586,Pharah,Healing Received,general
+9587,Pharah,Hero Damage Done,general
+9588,Pharah,Objective Time,general
+9589,Pharah,Quick Melee Accuracy,some_shared
+9590,Pharah,Quick Melee Hits,some_shared
+9591,Pharah,Quick Melee Ticks,some_shared
+9592,Pharah,Rocket Barrages,hero_specific
+9593,Pharah,Rocket Direct Hits,hero_specific
+9594,Pharah,Shots Fired,some_shared
+9595,Pharah,Shots Hit,some_shared
+9596,Pharah,Shots Missed,some_shared
+9600,Pharah,Time Holding Ultimate,general
+9603,Pharah,Ultimates Used,general
+9604,Pharah,Weapon Accuracy,some_shared
+9605,Pharah,of Rockets Fired,hero_specific
+9606,Symmetra,All Damage Done,general
+9607,Symmetra,Assists,general
+9610,Symmetra,Barrier Damage Done,general
+9611,Symmetra,Damage - Sentry Turret,hero_specific
+9612,Symmetra,Damage - Weapon Primary,some_shared
+9613,Symmetra,Damage - Weapon Secondary,some_shared
+9614,Symmetra,Damage Blocked,some_shared
+9616,Symmetra,Deaths,general
+9617,Symmetra,Eliminations,general
+9618,Symmetra,Final Blows,general
+9620,Symmetra,Hero Damage Done,general
+9621,Symmetra,Objective Kills,general
+9622,Symmetra,Objective Time,general
+9623,Symmetra,Photon Projector Kills,hero_specific
+9625,Symmetra,Primary Fire Accuracy,some_shared
+9626,Symmetra,Primary Fire Average Level,hero_specific
+9627,Symmetra,Primary Fire Hits,some_shared
+9628,Symmetra,Primary Fire Hits Hits - Level,hero_specific
+9631,Symmetra,Secondary Direct Hits,hero_specific
+9632,Symmetra,Secondary Fire Accuracy,some_shared
+9633,Symmetra,Sentry Turret Kills,hero_specific
+9635,Symmetra,Shots Hit,some_shared
+9644,Symmetra,Time Holding Ultimate,general
+9647,Symmetra,Ultimates Used,general
+9648,Symmetra,Weapon Accuracy,some_shared
+9760,Mercy,Average Time Alive,general
+9761,Mercy,Damage Amplified,some_shared
+9762,Mercy,Damage Taken,general
+9763,Mercy,Deaths,general
+9764,Mercy,Defensive Assists,some_shared
+9765,Mercy,Healing - Weapon,some_shared
+9766,Mercy,Healing - Weapon Valkyrie,hero_specific
+9767,Mercy,Healing Done,some_shared
+9768,Mercy,Healing Received,general
+9769,Mercy,Objective Time,general
+9770,Mercy,Offensive Assists,some_shared
+9771,Mercy,Players Resurrected,hero_specific
+9772,Mercy,Players Saved,hero_specific
+9773,Mercy,Quick Melee Ticks,some_shared
+9774,Mercy,Self Healing,some_shared
+9775,Mercy,Self Healing Percent of Damage Taken,some_shared
+9776,Mercy,Time Alive,general
+9777,Mercy,Time Building Ultimate,general
+9778,Mercy,Time Elapsed per Ultimate Earned,general
+9779,Mercy,Time Holding Ultimate,general
+9780,Mercy,Time Played,general
+9781,Mercy,Ultimates Earned - Fractional,general
+9782,Mercy,Ultimates Used,general
+9783,Mercy,Valkyrie Healing Efficiency,hero_specific
+9843,Baptiste,Melee Final Blows,some_shared
+9844,Baptiste,Multikills,general
+9954,Sigma,Melee Final Blows,some_shared
+10056,Lúcio,Turrets Destroyed,some_shared
+10060,Mercy,All Damage Done,general
+10061,Mercy,Assists,general
+10063,Mercy,Blaster Kills,hero_specific
+10064,Mercy,Damage - Weapon Pistol,hero_specific
+10069,Mercy,Eliminations,general
+10074,Mercy,Hero Damage Done,general
+10082,Mercy,Shots Fired,some_shared
+10083,Mercy,Shots Hit,some_shared
+10084,Mercy,Shots Missed,some_shared
+10093,Mercy,Weapon Accuracy,some_shared
+10393,Mei,Turrets Destroyed,some_shared
+10412,Pharah,Objective Kills,general
+10483,Reinhardt,Turrets Destroyed,some_shared
+10558,Echo,Time Discorded,some_shared
+10590,Torbjörn,All Damage Done,general
+10591,Torbjörn,Assists,general
+10592,Torbjörn,Barrier Damage Done,general
+10593,Torbjörn,Critical Hit Accuracy,some_shared
+10594,Torbjörn,Critical Hit Kills,some_shared
+10595,Torbjörn,Critical Hits,some_shared
+10596,Torbjörn,Damage - Molten Core,hero_specific
+10597,Torbjörn,Damage - Weapon Primary,some_shared
+10598,Torbjörn,Damage Taken,general
+10599,Torbjörn,Deaths,general
+10600,Torbjörn,Eliminations,general
+10601,Torbjörn,Final Blows,general
+10602,Torbjörn,Healing Received,general
+10603,Torbjörn,Hero Damage Done,general
+10604,Torbjörn,Molten Core Efficiency,hero_specific
+10605,Torbjörn,Molten Core Kills,hero_specific
+10606,Torbjörn,Objective Kills,general
+10607,Torbjörn,Objective Time,general
+10608,Torbjörn,Shots Fired,some_shared
+10609,Torbjörn,Shots Hit,some_shared
+10610,Torbjörn,Shots Missed,some_shared
+10611,Torbjörn,Solo Kills,general
+10612,Torbjörn,Time Alive,general
+10613,Torbjörn,Time Building Ultimate,general
+10614,Torbjörn,Time Discorded,some_shared
+10615,Torbjörn,Time Elapsed per Ultimate Earned,general
+10616,Torbjörn,Time Holding Ultimate,general
+10617,Torbjörn,Time Played,general
+10618,Torbjörn,Torbjörn Kills,hero_specific
+10619,Torbjörn,Turret Damage,hero_specific
+10620,Torbjörn,Turret Kills,hero_specific
+10621,Torbjörn,Ultimates Earned - Fractional,general
+10622,Torbjörn,Ultimates Used,general
+10623,Torbjörn,Weapon Accuracy,some_shared
+10752,Sigma,Environmental Deaths,some_shared
+10753,Sigma,Environmental Kills,some_shared
+10810,Zarya,Time Discorded,some_shared
+10871,Reinhardt,Time Discorded,some_shared
+10896,Wrecking Ball,Environmental Deaths,some_shared
+10904,Wrecking Ball,Melee Final Blows,some_shared
+11057,Zenyatta,Time Discorded,some_shared
+11096,Ashe,Coach Gun Kills,hero_specific
+11111,Ashe,Knockback Kills,some_shared
+11125,Ashe,Time Discorded,some_shared
+11177,McCree,Time Discorded,some_shared
+11291,Brigitte,Environmental Deaths,some_shared
+11462,Wrecking Ball,Solo Kills,general
+11469,Wrecking Ball,Turrets Destroyed,some_shared
+11519,Echo,Environmental Deaths,some_shared
+11520,Echo,Environmental Kills,some_shared
+11608,Pharah,Melee Final Blows,some_shared
+11624,Pharah,Turrets Destroyed,some_shared
+11750,Zenyatta,Damage - Quick Melee,some_shared
+11758,Zenyatta,Environmental Deaths,some_shared
+11769,Zenyatta,Quick Melee Accuracy,some_shared
+11770,Zenyatta,Quick Melee Hits,some_shared
+11786,Zenyatta,Turrets Destroyed,some_shared
+11823,Ashe,Critical Hit Kills,some_shared
+11836,Ashe,Environmental Kills,some_shared
+11849,Ashe,Scoped Critical Hit Kills,some_shared
+12024,Mercy,Barrier Damage Done,general
+12026,Mercy,Critical Hit Accuracy,some_shared
+12027,Mercy,Critical Hits,some_shared
+12039,Mercy,Objective Kills,general
+12052,Mercy,Time Discorded,some_shared
+12391,Ana,Multikills,general
+12410,Ana,Solo Kills,general
+12413,Ana,Time Discorded,some_shared
+12566,Brigitte,Multikills,general
+14004,Sigma,Multikills,general
+14081,Ashe,Turrets Destroyed,some_shared
+14450,Widowmaker,Assists,general
+14455,Widowmaker,Damage - Quick Melee,some_shared
+14456,Widowmaker,Damage - Venom Mine,hero_specific
+14465,Widowmaker,Quick Melee Accuracy,some_shared
+14466,Widowmaker,Quick Melee Hits,some_shared
+14945,Widowmaker,Infra-Sight Efficiency,some_shared
+14947,Widowmaker,Objective Kills,general
+14948,Widowmaker,Objective Time,general
+14950,Widowmaker,Recon Assists,some_shared
+14960,Widowmaker,Solo Kills,general
+15340,Junkrat,All Damage Done,general
+15341,Junkrat,Assists,general
+15343,Junkrat,Barrier Damage Done,general
+15344,Junkrat,Concussion Mine Kills,hero_specific
+15345,Junkrat,Damage - Concussion Mine,hero_specific
+15346,Junkrat,Damage - Weapon,some_shared
+15347,Junkrat,Damage Taken,general
+15348,Junkrat,Deaths,general
+15349,Junkrat,Eliminations,general
+15350,Junkrat,Final Blows,general
+15351,Junkrat,Frag Launcher Direct Hits,hero_specific
+15352,Junkrat,Healing Received,general
+15353,Junkrat,Hero Damage Done,general
+15354,Junkrat,Knockback Kills,some_shared
+15355,Junkrat,Objective Kills,general
+15356,Junkrat,Objective Time,general
+15358,Junkrat,Shots Hit,some_shared
+15363,Junkrat,Time Holding Ultimate,general
+15366,Junkrat,Ultimates Used,general
+15367,Junkrat,Weapon Accuracy,some_shared
+15383,Pharah,Knockback Kills,some_shared
+15394,Pharah,Time Discorded,some_shared
+15444,Symmetra,Multikills,general
+15468,Symmetra,Time Hacked,some_shared
+16099,Doomfist,Turrets Destroyed,some_shared
+16150,Junkrat,Damage - Steel Trap,hero_specific
+16155,Junkrat,Enemies Trapped,hero_specific
+16167,Junkrat,Solo Kills,general
+16173,Junkrat,Turrets Destroyed,some_shared
+16300,Zarya,Turrets Destroyed,some_shared
+16353,Reinhardt,Multikills,general
+16505,Baptiste,Turrets Destroyed,some_shared
+16722,Pharah,Solo Kills,general
+17068,Mercy,Critical Hit Kills,some_shared
+17076,Mercy,Final Blows,general
+17365,Ashe,Time Hacked,some_shared
+17404,Soldier: 76,Average Time Alive,general
+17686,Wrecking Ball,Multikills,general
+17762,Zenyatta,Melee Final Blows,some_shared
+17967,Widowmaker,Time Discorded,some_shared
+18131,Widowmaker,Time Hacked,some_shared
+18239,Brigitte,Solo Kills,general
+18405,Mercy,Damage - Quick Melee,some_shared
+18418,Mercy,Melee Final Blows,some_shared
+18423,Mercy,Quick Melee Accuracy,some_shared
+18424,Mercy,Quick Melee Hits,some_shared
+18431,Mercy,Solo Kills,general
+18471,Orisa,Damage - Quick Melee,some_shared
+18485,Orisa,Quick Melee Accuracy,some_shared
+18486,Orisa,Quick Melee Hits,some_shared
+18497,Orisa,Time Hacked,some_shared
+18764,Genji,Multikills,general
+19705,Mercy,Time Hacked,some_shared
+19758,Wrecking Ball,Environmental Kills,some_shared
+19832,Brigitte,Environmental Kills,some_shared
+20817,Mei,Melee Final Blows,some_shared
+21316,Sombra,Melee Final Blows,some_shared
+21525,Pharah,Multikills,general
+22106,Mei,Time Discorded,some_shared
+28873,McCree,Turrets Destroyed,some_shared
+31308,Mei,Multikills,general
+32881,Reinhardt,Solo Kills,general
+32982,D.Va,Turrets Destroyed,some_shared
+34322,Symmetra,Turrets Destroyed,some_shared
+34860,Doomfist,Environmental Kills,some_shared
+34867,Doomfist,Multikills,general
+34901,Echo,Turrets Destroyed,some_shared
+34939,Torbjörn,Average Time Alive,general
+34947,Torbjörn,Overload Kills,hero_specific
+34948,Torbjörn,Quick Melee Ticks,some_shared
+35299,Reaper,Damage - Death Blossom,hero_specific
+35300,Reaper,Damage - Quick Melee,some_shared
+35303,Reaper,Death Blossom Efficiency,hero_specific
+35304,Reaper,Death Blossom Kills,hero_specific
+35305,Reaper,Death Blossoms,hero_specific
+35311,Reaper,Multikills,general
+35314,Reaper,Quick Melee Accuracy,some_shared
+35315,Reaper,Quick Melee Hits,some_shared
+35322,Reaper,Solo Kills,general
+35329,Reaper,Ultimates Used,general
+35336,Symmetra,Damage - Quick Melee,some_shared
+35356,Symmetra,Quick Melee Accuracy,some_shared
+35357,Symmetra,Quick Melee Hits,some_shared
+35398,Tracer,Turrets Destroyed,some_shared
+36182,Doomfist,Time Discorded,some_shared
+36991,Soldier: 76,Damage - Quick Melee,some_shared
+37005,Soldier: 76,Quick Melee Accuracy,some_shared
+37006,Soldier: 76,Quick Melee Hits,some_shared
+37013,Soldier: 76,Solo Kills,general
+38547,Reaper,Critical Hit Kills,some_shared
+40765,Ashe,Melee Final Blows,some_shared
+41897,Hanzo,Multikills,general
+42242,Sigma,Ultimates Negated,some_shared
+43612,Torbjörn,Damage - Quick Melee,some_shared
+43614,Torbjörn,Damage - Weapon Secondary,some_shared
+43623,Torbjörn,Multikills,general
+43626,Torbjörn,Quick Melee Accuracy,some_shared
+43627,Torbjörn,Quick Melee Hits,some_shared
+45688,Sigma,Turrets Destroyed,some_shared
+48047,Junkrat,Time Discorded,some_shared
+48049,Junkrat,Time Hacked,some_shared
+48488,Widowmaker,Melee Final Blows,some_shared
+48512,Widowmaker,Venom Mine Kills,hero_specific
+48893,Ana,Environmental Kills,some_shared
+50206,Junkrat,Damage - RIP-Tire,hero_specific
+50207,Junkrat,Damage - Total Mayhem,hero_specific
+50219,Junkrat,RIP-Tire Efficiency,hero_specific
+50220,Junkrat,RIP-Tire Kills,hero_specific
+50399,Symmetra,Environmental Deaths,some_shared
+52661,Hanzo,Melee Final Blows,some_shared
+55577,Orisa,Solo Kills,general
+55851,Reinhardt,Environmental Kills,some_shared
+56131,Symmetra,Solo Kills,general
+68472,Soldier: 76,Time Discorded,some_shared
+71685,Pharah,Time Hacked,some_shared
+74774,Junkrat,Damage - Quick Melee,some_shared
+74782,Junkrat,Environmental Deaths,some_shared
+74790,Junkrat,Quick Melee Accuracy,some_shared
+74791,Junkrat,Quick Melee Hits,some_shared
+74990,Orisa,Turrets Destroyed,some_shared
+78129,Symmetra,Time Discorded,some_shared
+88145,Moira,Multikills,general
+95601,Brigitte,Turrets Destroyed,some_shared
+96599,Pharah,Environmental Deaths,some_shared
+98945,Torbjörn,Damage - Weapon Hammer,hero_specific
+98952,Torbjörn,Hammer Kills,hero_specific
+98966,Torbjörn,Time Hacked,some_shared
+99532,Moira,Environmental Deaths,some_shared
+100591,Bastion,Assists,general
+100601,Bastion,Objective Kills,general
+100881,Mercy,Environmental Deaths,some_shared
+101790,Hanzo,Turrets Destroyed,some_shared
+104778,Winston,Turrets Destroyed,some_shared
+105008,Sombra,Turrets Destroyed,some_shared
+106539,Genji,Critical Hit Kills,some_shared
+123954,Junkrat,Offensive Assists,some_shared
+125267,Bastion,Multikills,general
+125269,Bastion,Objective Time,general
+129924,Orisa,Melee Final Blows,some_shared
+138914,Roadhog,All Damage Done,general
+138915,Roadhog,Critical Hit Accuracy,some_shared
+138916,Roadhog,Critical Hits,some_shared
+138917,Roadhog,Damage - Weapon Secondary,some_shared
+138920,Roadhog,Hero Damage Done,general
+138923,Roadhog,Shots Fired,some_shared
+138924,Roadhog,Shots Hit,some_shared
+138925,Roadhog,Shots Missed,some_shared
+138931,Roadhog,Weapon Accuracy,some_shared
+141000,Moira,Melee Final Blows,some_shared
+154864,Ana,Turrets Destroyed,some_shared
+155005,Mercy,Turrets Destroyed,some_shared
+160491,Doomfist,Environmental Deaths,some_shared
+173788,Widowmaker,Environmental Deaths,some_shared
+183897,Zarya,Environmental Kills,some_shared
+201820,Moira,Solo Kills,general
+203555,Hanzo,Time Hacked,some_shared
+212124,Soldier: 76,Environmental Deaths,some_shared
+223199,Soldier: 76,Time Hacked,some_shared
+228945,Roadhog,Assists,general
+228947,Roadhog,Barrier Damage Done,general
+228949,Roadhog,Critical Hit Kills,some_shared
+228951,Roadhog,Damage - Chain Hook,hero_specific
+228952,Roadhog,Damage - Quick Melee,some_shared
+228953,Roadhog,Damage - Weapon Primary,some_shared
+228955,Roadhog,Damage - Whole Hog,hero_specific
+228957,Roadhog,Deaths,general
+228958,Roadhog,Eliminations,general
+228959,Roadhog,Enemies Hooked,hero_specific
+228960,Roadhog,Environmental Kills,some_shared
+228961,Roadhog,Final Blows,general
+228964,Roadhog,Hook Accuracy,hero_specific
+228966,Roadhog,Knockback Kills,some_shared
+228967,Roadhog,Melee Final Blows,some_shared
+228968,Roadhog,Multikills,general
+228969,Roadhog,Objective Kills,general
+228970,Roadhog,Objective Time,general
+228971,Roadhog,Offensive Assists,some_shared
+228972,Roadhog,Quick Melee Accuracy,some_shared
+228973,Roadhog,Quick Melee Hits,some_shared
+228975,Roadhog,Self Healing,some_shared
+228976,Roadhog,Self Healing Percent of Damage Taken,some_shared
+228980,Roadhog,Solo Kills,general
+228984,Roadhog,Time Holding Ultimate,general
+228987,Roadhog,Ultimates Used,general
+228989,Roadhog,Whole Hog Efficiency,hero_specific
+228990,Roadhog,Whole Hog Kills,hero_specific
+232809,Soldier: 76,Multikills,general
+233597,Orisa,Environmental Deaths,some_shared
+235890,Soldier: 76,Melee Final Blows,some_shared
+238589,Reaper,Melee Final Blows,some_shared
+242321,Soldier: 76,Turrets Destroyed,some_shared
+254313,Moira,Turrets Destroyed,some_shared
+259620,Reaper,Environmental Deaths,some_shared
+262029,Genji,Turrets Destroyed,some_shared
+269089,Torbjörn,Melee Final Blows,some_shared
+274504,McCree,Environmental Kills,some_shared
+278410,Reaper,Environmental Kills,some_shared
+287557,Genji,Environmental Deaths,some_shared
+292802,Reaper,Turrets Destroyed,some_shared
+293141,Pharah,Environmental Kills,some_shared
+298341,Roadhog,Environmental Deaths,some_shared
+298609,Bastion,Tank Efficiency,hero_specific
+298610,Bastion,Tank Kills,hero_specific
+381214,Symmetra,Melee Final Blows,some_shared
+382602,Widowmaker,Multikills,general
+394456,Soldier: 76,Environmental Kills,some_shared
+414777,Torbjörn,Environmental Deaths,some_shared
+421850,Torbjörn,Turrets Destroyed,some_shared
+438512,Tracer,Environmental Kills,some_shared
+443756,Reaper,Time Discorded,some_shared
+470596,Junkrat,Multikills,general
+478358,Roadhog,Time Discorded,some_shared
+515077,Genji,Time Hacked,some_shared
+520226,Junkrat,Total Mayhem Kills,hero_specific
+530414,Orisa,Environmental Kills,some_shared
+699748,Widowmaker,Turrets Destroyed,some_shared
+823191,Roadhog,Time Hacked,some_shared
+865437,Genji,Environmental Kills,some_shared
+1006815,Mercy,Multikills,general
